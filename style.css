@@ -1,0 +1,93 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to bottom, #fbe9e7, #f3e5f5);
+}
+.hero-title span {
+  color: #7c4dff;
+}
+
+.line-info {
+  position: absolute;
+  top: 150px;
+  left: 170px;
+
+  width: 110px;
+  border-radius: 8px;
+  height: 15px;
+  background: #7c4dff;
+}
+.btn-orange {
+  background-color: #ff8a65;
+  color: white;
+}
+.btn-orange:hover {
+  background-color: #ff7043;
+}
+@media (max-width: 1024px) {
+  .line-info {
+    display: none;
+  }
+}
+
+
+
+ .section-title {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    .section-title span {
+      color: #7d3cff;
+    }
+
+    .grid-item {
+      margin-bottom: 15px;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+
+    .grid-item img {
+      width: 100%;
+      border-radius: 10px;
+      display: block;
+    }
+    .fifty-3{
+      margin-top: 60px;
+    }
+
+     .btn-purchase{
+      margin-top: 50px;
+     }
+     .touch{
+      margin-top: 60px;
+      width: fit-content;
+      padding: 30px 0;
+     }
+     .bi-geo-alt{
+      font-size: 16px;
+     }
+     .totall{
+      width: 100%;
+      margin:   auto;
+      gap: 5px;
+      margin-left: 10%;
+      margin-right: 10%;
+     
+     }
+     
+     .first-div{
+      width: 32%;
+      gap: 5px;
+     }
+     .second-div{
+      width: 22%;
+      gap: 5px;
+     }
+     .third-div{
+      width: 22%;
+      gap: 5px;
+     }
+     .insta{
+      margin-left: 10%;
+      margin-right: 10%;
+     }
